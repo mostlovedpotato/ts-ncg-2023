@@ -6,6 +6,8 @@ You can Run the Frontend By going into /frontend and running
 "npm start" 
 
 *Backend*
+
+
 Similary go into backend and Open the project in IntelliJ.
 Run the main. 
 Also before running reconfigure the MYSQL username and password by going into
